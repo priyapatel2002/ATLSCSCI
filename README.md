@@ -1,5 +1,6 @@
 # ATLSCSCI
-Lab 6 that goes over introductory HTML elements
+
+Labs and Assignments!
 
 
 https://priyapatel2002.github.io/ATLSCSCI/assignment6/index.html
