@@ -12,4 +12,9 @@ https://priyapatel2002.github.io/ATLSCSCI/assignment8/birdwatching.html
 
 https://priyapatel2002.github.io/ATLSCSCI/assignment11/form-exercise1(one).html
 
-j
+https://priyapatel2002.github.io/ATLSCSCI/finalProj/navbar.html
+
+https://priyapatel2002.github.io/ATLSCSCI/finalProj/button.html
+
+https://priyapatel2002.github.io/ATLSCSCI/finalProj/navbarDarkmode.html
+
