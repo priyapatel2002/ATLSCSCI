@@ -1,0 +1,54 @@
+
+      /* Navbar styling */
+      nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* background-color: #f8f8f8; */
+        height: 60px;
+        padding: 0 20px;
+        float: right;
+          
+      }
+      nav ul {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav li {
+        margin-right: 20px;
+        font-size: 18px;
+      }
+      nav a {
+        color: #1e2d4a;
+        text-decoration: none;
+        /* Add this rule to make the font dark blue */
+        color: rgb(26, 26, 200);
+      }
+      .moon-icon {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px; 
+        font-size: 10px; /* Adjusted to match nav li font size */
+      }
+      .moon-icon img {
+        width: 20px;
+        height: 20px;
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 60px;
+        padding: 0 20px;
+      }
+      
+      header h1 {
+        margin: 0;
+        font-size: 18px; /* Same as navbar li elements */
+        font-family: 'Times New Roman', Times, serif, sans-serif; /* Same font family as navbar */
+        font-weight: normal;
+        color: rgb(26, 26, 200);
+      }
+      
