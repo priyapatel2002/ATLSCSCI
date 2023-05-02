@@ -1,0 +1,127 @@
+
+      /* Navbar styling */
+
+      h1 {
+        display: block;
+        font-size: 2em;
+        margin-block-start: 0.67em;
+        margin-block-end: 0.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+      }
+      html h1 {
+        margin: 0px 0px 1.45rem;
+        padding: 0px;
+        color: inherit;
+        font-weight: bold;
+        text-rendering: optimizelegibility;
+        font-size: 2.25rem;
+        line-height: 1.1;
+      }
+     
+      h4 {
+        display: block;
+        margin-block-start: 1.33em;
+        margin-block-end: 1.33em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+      }
+      html h4 {
+        margin: 0px 0px 1.45rem;
+        padding: 0px;
+        color: inherit;
+        font-weight: bold;
+        text-rendering: optimizelegibility;
+        font-size: 1rem;
+        line-height: 1.1;
+      }
+      nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* background-color: darkblue; */
+        height: 60px;
+        padding: 0 20px;
+        float: right;
+          
+      }
+      nav ul {
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      nav li {
+        margin-right: 20px;
+        font-size: 18px;
+      }
+      nav a {
+        color: #1e2d4a;
+        text-decoration: none;
+        /* Add this rule to make the font dark blue */
+        color: white;
+      }
+      .sun-icon {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px; 
+        font-size: 20px; /* Adjusted to match nav li font size */
+        
+      }
+      .sun-icon img {
+        width: 30px;
+        height: 30px;
+
+      }
+      header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 60px;
+        padding: 0 20px;
+        /* background-color: darkblue;  */
+        /* to show what it looks like in dark blue background in dark mode */
+      }
+      
+      header h1 {
+        margin: 0;
+        font-size: 18px; /* Same as navbar li elements */
+        /* font-family: 'Times New Roman', Times, serif, sans-serif; Same font family as navbar */
+        font-family: Poppins, Helvetica, sans-serif;
+        font-weight: normal;
+        color: white;
+      }
+
+    html body {
+        margin: 0px;
+        padding: 0px;
+        font-family: Poppins, Helvetica, sans-serif;
+        color: rgb(255, 255, 255);
+        background-color: rgb(0, 39, 82);
+        transition: all 0.3s ease 0s;
+        font-weight: normal;
+        overflow-wrap: break-word;
+        font-kerning: normal;
+        font-feature-settings: "kern", "liga", "clig", "calt";
+    }
+
+      /* h4{
+        color: gray;
+        font-family: Poppins, Helvetica, sans-serif;
+        font-size: 32px; 
+      } */
+
+      h4 {
+        /* display: block;
+        margin-block-start: 1.33em;
+        margin-block-end: 1.33em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px; */
+        font-weight: bold;
+        color: rgb(245, 235, 235);
+        font-family: Poppins, Helvetica, sans-serif;
+        font-size: 32px; 
+        text-align: center;
+    }
